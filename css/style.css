@@ -296,6 +296,19 @@ section {
 .phoneApp > img {
     border: 1px gray solid;
 }
+.other {
+    text-align: center;
+}
+.other > span {
+    font-size: 20px;
+    display: block;
+    margin: 50px;
+}
+.other > .other-item {
+    box-shadow: 2px 2px 3px #333333;
+    margin: 20px 0;
+    width: 900px;
+}
 .webEnd > .title{
     font-size: 30px;
     display: block;
