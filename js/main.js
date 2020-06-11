@@ -1,5 +1,6 @@
 window.onload = function () {
   let mySwiper = new Swiper('.swiper-container',{
+    autoplay: true,
     direction: 'horizontal',
     loop: true,
     centeredSlides: true,
